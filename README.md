@@ -93,3 +93,7 @@ Here, pointer of 9 should point to null.
 4. Print all the elements in the linked list in reverse order.
 Original linked list : 23 <--> 52 <--> 19 <--> 9 <--> 100
 Output - 100, 9, 19, 52, 23
+
+output of part(1):
+
+<img width="391" alt="Screenshot 2023-05-31 at 10 51 08 PM" src="https://github.com/CS5008-5009/lab3-Ruby-8/assets/66276749/d84dbd8d-8219-4f65-a4a5-4a206102044b">
