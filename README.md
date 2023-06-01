@@ -97,3 +97,6 @@ Output - 100, 9, 19, 52, 23
 output of part(1):
 
 <img width="391" alt="Screenshot 2023-05-31 at 10 51 08 PM" src="https://github.com/CS5008-5009/lab3-Ruby-8/assets/66276749/d84dbd8d-8219-4f65-a4a5-4a206102044b">
+
+output of part(2): 
+<img width="547" alt="Screenshot 2023-06-01 at 3 25 13 PM" src="https://github.com/CS5008-5009/lab3-Ruby-8/assets/66276749/a7d11d14-d7b2-47e0-86fb-e86f84b23b4c">
